@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/dataset.csv",
+      "destination": "https://edvyro.in/datasets/customer_churn_sample.csv"
+    }
+  ]
+}
