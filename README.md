@@ -74,3 +74,8 @@ docs/METHODOLOGY.md
 - Medians and percentiles are unstable on very small files such as the 15-row sample.
 - Recommendations are starting points and do not guarantee reduced churn.
 - Only the first 200 rows appear in the on-screen table; the CSV download contains every row.
+...
+
+## 🌐 Live Demo
+
+**[Click here to visit the live website](https://churn-wise-lite.vercel.app/)**
